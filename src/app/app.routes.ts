@@ -5,7 +5,7 @@ import { Average2Component } from '../average2/average2.component';
 import { Average3Component } from '../average3/average3.component';
 
 import { AppComponent } from './app.component';
-import { NavbarComponent } from '../navbar/navbar.component';
+
 
 export const routes: Routes = [
   { path: 'average1', component: Average1Component },
